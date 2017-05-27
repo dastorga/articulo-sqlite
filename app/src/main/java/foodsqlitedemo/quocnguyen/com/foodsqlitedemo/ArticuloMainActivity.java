@@ -22,7 +22,7 @@ import java.io.FileNotFoundException;
 import java.io.InputStream;
 
 /**
- * Created by Astorga Dario on 26-May-17. 
+ * Created by Astorga Dario on 26-May-17.
  */
 
 public class ArticuloMainActivity extends AppCompatActivity {

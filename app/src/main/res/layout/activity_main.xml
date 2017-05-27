@@ -63,21 +63,19 @@
         android:id="@+id/btnAdd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Añadir imagen"
-        android:layout_alignTop="@+id/btnChoose"
         android:layout_alignLeft="@+id/btnChoose"
         android:layout_alignStart="@+id/btnChoose"
+        android:layout_alignTop="@+id/btnChoose"
         android:layout_marginTop="71dp"
-        android:layout_alignRight="@+id/btnChoose"
-        android:layout_alignEnd="@+id/btnChoose" />
+        android:text="Añadir Articulo" />
 
     <Button
         android:id="@+id/btnList"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Lista de Imagenes"
-        android:layout_marginTop="19dp"
-        android:layout_below="@+id/btnAdd"
         android:layout_alignLeft="@+id/btnAdd"
-        android:layout_alignStart="@+id/btnAdd" />
+        android:layout_alignStart="@+id/btnAdd"
+        android:layout_below="@+id/btnAdd"
+        android:layout_marginTop="19dp"
+        android:text="Lista de Articulos" />
 </RelativeLayout>
